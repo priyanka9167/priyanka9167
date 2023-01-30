@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I am Priyanka Chaurasia<br>👩🏻‍🦰 I'm currently pursuing my Master's in Information Systems at Northeastern University<br>🙇‍♀️ Software developer by profession (MERN stack)<br>🤖 I'm learning to build strong core software engineering skills<br>✉️ Reach out to me: priyankachaurasia9167@gmail.com<br><br><br>
+# 💫 Hi, I am Priyanka Chaurasia
+👩🏻‍🦰 I'm currently pursuing my Master's in Information Systems at Northeastern University<br>🙇‍♀️ Software developer by profession (MERN stack)<br>🤖 I'm learning to build strong core software engineering skills<br>✉️ Reach out to me: priyankachaurasia9167@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
